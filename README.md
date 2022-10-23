@@ -1,0 +1,2 @@
+# awesome-taigi
+Kóng Tâigí
