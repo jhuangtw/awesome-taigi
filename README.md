@@ -1,5 +1,6 @@
 - https://huggingface.co/spaces/facebook/Hokkien_Translation
 - https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/
+- https://asr.yating.tw/
 
 - https://www.kongtaigi.com/
 - https://itaigi.tw/k/%E5%AD%97%E5%85%B8/
