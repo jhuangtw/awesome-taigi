@@ -9,3 +9,7 @@
 - https://tsbp.tgb.org.tw/
 
 - https://www.youtube.com/watch?v=SGQPpJEVepQ
+
+bible
+- https://lingshyang.com/taiwan_Bible/hb5.html
+- https://www.sl-pc.org.tw/bible/4
