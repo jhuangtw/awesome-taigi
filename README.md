@@ -10,6 +10,8 @@
 
 - https://www.youtube.com/watch?v=SGQPpJEVepQ
 
+- https://docs.google.com/document/d/1BQlk7pTNXxNyepd8C6_BuPAyvRMA-NUAc63_8AXyWxU/edit?tab=t.0
+
 bible
 - https://lingshyang.com/taiwan_Bible/hb5.html
 - https://www.sl-pc.org.tw/bible/4
