@@ -4,6 +4,7 @@
 - https://asr.yating.tw/
 
 - https://www.kongtaigi.com/
+- https://chhoe.taigi.info/
 - https://itaigi.tw/k/%E5%AD%97%E5%85%B8/
 - https://twblg.dict.edu.tw/holodict_new/
 - https://tsbp.tgb.org.tw/
@@ -11,6 +12,11 @@
 - https://www.youtube.com/watch?v=SGQPpJEVepQ
 
 - https://docs.google.com/document/d/1BQlk7pTNXxNyepd8C6_BuPAyvRMA-NUAc63_8AXyWxU/edit?tab=t.0
+
+- https://lohankha.tw/
+- https://translate.lohankha.tw/
+- https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi&hl=zh_TW
+- https://linktr.ee/taibunkesimi
 
 bible
 - https://lingshyang.com/taiwan_Bible/hb5.html
