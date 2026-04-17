@@ -8,6 +8,7 @@
 - https://itaigi.tw/k/%E5%AD%97%E5%85%B8/
 - https://twblg.dict.edu.tw/holodict_new/
 - https://tsbp.tgb.org.tw/
+- https://tggl.naer.edu.tw/related_links
 
 - https://www.youtube.com/watch?v=SGQPpJEVepQ
 
