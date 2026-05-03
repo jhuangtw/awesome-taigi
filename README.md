@@ -23,3 +23,4 @@ bible
 - https://lingshyang.com/taiwan_Bible/hb5.html
 - https://www.sl-pc.org.tw/bible/4
 - https://bible.fhl.net/new/audio_hb.php?version=1
+- https://taigu.fhl.net/index.html
