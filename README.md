@@ -19,6 +19,8 @@
 - https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi&hl=zh_TW
 - https://linktr.ee/taibunkesimi
 
+- https://taide.tw/en
+
 bible
 - https://lingshyang.com/taiwan_Bible/hb5.html
 - https://www.sl-pc.org.tw/bible/4
