@@ -24,6 +24,7 @@ tech
 - https://www.taigi-domiso.com/
 - https://kongcode.tw/episodes/4
   - https://pocketcasts.com/podcast/pofat-%E8%AC%9B-code/ed9d9c30-22a4-0139-32b7-0acc26574db2
+- https://bobtung.medium.com/%E7%94%A8ruby-%E5%AF%AB%E5%8F%B0%E8%AA%9E-3a1e3ed9bf3c
 
 bible
 - https://lingshyang.com/taiwan_Bible/hb5.html
