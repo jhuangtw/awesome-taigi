@@ -22,7 +22,8 @@
 tech
 - https://taide.tw/en
 - https://www.taigi-domiso.com/
-- https://pocketcasts.com/podcast/pofat-%E8%AC%9B-code/ed9d9c30-22a4-0139-32b7-0acc26574db2
+- https://kongcode.tw/episodes/4
+  - https://pocketcasts.com/podcast/pofat-%E8%AC%9B-code/ed9d9c30-22a4-0139-32b7-0acc26574db2
 
 bible
 - https://lingshyang.com/taiwan_Bible/hb5.html
